@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TMDB-randomizer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TMDB-randomizer/static/js/main.23655557.chunk.js",
+    "main.js.map": "/TMDB-randomizer/static/js/main.23655557.chunk.js.map",
+    "runtime-main.js": "/TMDB-randomizer/static/js/runtime-main.2b5b022e.js",
+    "runtime-main.js.map": "/TMDB-randomizer/static/js/runtime-main.2b5b022e.js.map",
+    "static/js/2.1271901e.chunk.js": "/TMDB-randomizer/static/js/2.1271901e.chunk.js",
+    "static/js/2.1271901e.chunk.js.map": "/TMDB-randomizer/static/js/2.1271901e.chunk.js.map",
+    "static/js/3.98b6773a.chunk.js": "/TMDB-randomizer/static/js/3.98b6773a.chunk.js",
+    "static/js/3.98b6773a.chunk.js.map": "/TMDB-randomizer/static/js/3.98b6773a.chunk.js.map",
+    "index.html": "/TMDB-randomizer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TMDB-randomizer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1271901e.chunk.js.LICENSE.txt": "/TMDB-randomizer/static/js/2.1271901e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TMDB-randomizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b5b022e.js",
+    "static/js/2.1271901e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.23655557.chunk.js"
+  ]
+}
