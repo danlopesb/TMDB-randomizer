@@ -5,7 +5,7 @@ import Typography from '@material-ui/core/Typography'
 import Button from '@material-ui/core/Button'
 import { IconButton, MenuIcon } from '@material-ui/core'
 
-const NavBar = () => {
+const NavBar = (props) => {
     return (
         <div>
             <AppBar position='static'>
@@ -16,7 +16,8 @@ const NavBar = () => {
                     <Typography variant='title' color='default' align='center'>
                         TMDB Randomizer
                     </Typography>
-                    <Button variant='contained' color='secondary'>Get random movie!</Button>
+                    <Button variant='contained' color='secondary' onClick={props.getRandomMovie}>
+                        Get random movie!</Button>
                 </Toolbar>
             </AppBar>
         </div>)
